@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "types": ["node"],
+    "esModuleInterop": true
+  },
+  "include": [
+    "src",
+    "src/typings/readline.d.ts"
+  ]
+}
